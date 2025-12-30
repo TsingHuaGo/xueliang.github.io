@@ -7,11 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-薛良，男，硕士研究生在读，研究方向是计算电磁学的高频近似方法。
+薛良，男，硕士研究生在读，师从北京邮电大学[郭星月副教授](https://teacher.bupt.edu.cn/guoxingyue)从事计算电磁学高频近似方法（弹跳射线法）的研究。目前已有一篇ICCEM会议论文在投，获研究生一等奖学金、深交所企业奖学金等荣誉，并获优秀研究生干部、优秀骨干、优秀志愿者等称号。
+
 
 教育经历:
 - 2020.9~2024.6    燕山大学    学士 
 - 2024.9~2027.6    北京邮电大学    硕士
+
+
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
