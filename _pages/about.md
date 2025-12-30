@@ -9,10 +9,10 @@ redirect_from:
 
 薛良，男，中共党员，研究方向是计算电磁学的高频近似方法。
 
-教育经历：
--2020.9~2024.6
+教育经历:
+- 2020.9~2024.6
 燕山大学 | 信息科学与工程学院（软件学院） | 电子信息工程（卓越计划） | 学士 | 
--2024.9~至今
+- 2024.9~至今
 北京邮电大学 | 电子工程学院 | 新一代电子信息技术（含量子技术等） | 硕士 | 
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
