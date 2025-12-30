@@ -23,7 +23,7 @@ repository               : "xueliang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile1.png"
   name             : "薛良 (Xue liang)"
   pronouns         : # example: "she/her"  
   bio              : "计算电磁学"
