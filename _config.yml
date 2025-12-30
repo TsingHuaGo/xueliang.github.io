@@ -24,13 +24,13 @@ repository               : "TsingHuaGo/xueliang.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "薛良 (Xue liang)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "计算电磁学方向硕士研究生"
+  location         : "北京市海淀区西土城路10号"
+  employer         : "北京邮电大学电子工程学院"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "xueliang@bupt.edu.cn" 
 
   # Academic websites
   academia         : # URL
