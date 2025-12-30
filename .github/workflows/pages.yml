@@ -27,7 +27,7 @@ jobs:
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
-          # 关键：不指定 source，或设为 "."
+          source: .          # 关键：明确指向根目录
           destination: ./_site
       
       - name: Upload artifact
