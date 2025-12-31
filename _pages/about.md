@@ -34,7 +34,9 @@ https://teacher.bupt.edu.cn/guoxingyue
 [3].Remote Sensing审稿人\
 [4].Sensors审稿人\
 [5].Electronics 审稿人\
-[6].Advances in Applied Mathematics and Mechanics审稿人
+[6].Advances in Applied Mathematics and Mechanics审稿人\
+ \
+ \
 
 
 **[实验室情况]**
