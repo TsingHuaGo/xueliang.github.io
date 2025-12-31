@@ -20,9 +20,9 @@ redirect_from:
 
 [News]
 ======
-2025-11 孙博同学获北京邮电大学博士生一等奖学金！\
-2025-11 薛良同学获北京邮电大学深交所企业学金！\
-2025-06 孙博同学基于XXXX工作被IEEE Transactions on Microwave Theory and Techniques(TMTT) SCI一区期刊接收！
+2025-11 XXX同学获北京邮电大学XXX奖学金！\
+2025-11 XXX同学获北京邮电大学XXX奖学金！\
+2025-06 XXX同学基于XXXX工作被IEEE Transactions on Microwave Theory and Techniques(TMTT) SCI一区期刊接收！
 
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -33,11 +33,11 @@ For those users that need more advanced functionality, the template also support
 - [Mermaid](https://mermaid.js.org/) for diagraming
 - [Plotly](https://plotly.com/javascript/) for plotting
 
-[实验室建设]
+[实验室情况]
 ======
-- 实验室内师生氛围活跃融洽，鼓励学生独立探索，平均每两周进行一次一对一的指导交流。
-- 每学期会有团建活动。
-- 文章Deadline前弹性工作，合理冲刺，平时保证周末的family time。
+- 实验室内师生氛围活跃融洽，每学期会有团建活动。。
+- 鼓励学生独立探索，平均每两周进行一次一对一的指导交流。
+- 平时会保证周末的休息时间，文章、项目Deadline前弹性工作，合理冲刺。
 - 所在科研团队目前承担多项国家高水平项目，实验试验条件优良，有充足的科研经费，能为研究生提供实验室补贴、奖学金及国际交流合作机会。
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
@@ -47,13 +47,27 @@ For those users that need more advanced functionality, the template also support
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
+[个人主页]
 ------
+https://teacher.bupt.edu.cn/guoxingyue
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
+[招生信息]
 ------
+如果你希望和我一起进行科研工作，请邮件联系我，一般每年招收博士研究生1~2名，硕士研究生3~4名，也可以联系刘元安老师，谢谢。
+
 For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+
+[社会兼职]
+------
+[1].IEEE Transactions on Microwave Theory and Techniques审稿人\
+[2].IEEE Transactions on Antennas and Propagation审稿人\
+[3].Remote Sensing审稿人\
+[4].Sensors审稿人\
+[5].Electronics 审稿人\
+[6].Advances in Applied Mathematics and Mechanics审稿人\
+
+
 
 **Markdown generator**
 
