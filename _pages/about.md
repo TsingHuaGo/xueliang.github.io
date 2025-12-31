@@ -47,6 +47,14 @@ For those users that need more advanced functionality, the template also support
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
+[研究方向[
+------
+[1] 智能电磁学\
+[2] 计算电磁学及其应用\
+[3] 特征模理论及其应用\
+[4] 复杂电磁环境计算\
+[5] 天线与电磁兼容
+
 [个人主页]
 ------
 https://teacher.bupt.edu.cn/guoxingyue
@@ -65,7 +73,7 @@ For site content, there is one Markdown file for each type of content, which are
 [3].Remote Sensing审稿人\
 [4].Sensors审稿人\
 [5].Electronics 审稿人\
-[6].Advances in Applied Mathematics and Mechanics审稿人\
+[6].Advances in Applied Mathematics and Mechanics审稿人
 
 
 
