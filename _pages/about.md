@@ -48,9 +48,9 @@ https://teacher.bupt.edu.cn/guoxingyue/
 
 [News]
 ======
-2025-11 XXX同学获北京邮电大学XXX奖学金！\
-2025-11 XXX同学获北京邮电大学XXX奖学金！\
-2025-06 XXX同学基于XXXX工作被IEEE Transactions on Microwave Theory and Techniques(TMTT) SCI一区期刊接收！
+2025-11 **XXX同学**获北京邮电大学**XXX奖学金**！\
+2025-11 **XXX同学**获北京邮电大学**XXX奖学金**！\
+2025-06 **XXX同学**基于XXXX工作被IEEE Transactions on Microwave Theory and Techniques(TMTT) **SCI一区**期刊接收！
 
 
 
