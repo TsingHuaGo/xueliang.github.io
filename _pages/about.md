@@ -10,7 +10,7 @@ redirect_from:
 薛良，男，硕士研究生在读，师从北京邮电大学[郭星月副教授](https://teacher.bupt.edu.cn/guoxingyue)从事计算电磁学高频近似方法（弹跳射线法）的研究。目前已有一篇ICCEM会议论文在投，获研究生一等奖学金、深交所企业奖学金等荣誉，并获优秀研究生干部、优秀骨干、优秀志愿者等称号。
 
 
-[个人主页]
+[官网主页]
 ------
 https://teacher.bupt.edu.cn/guoxingyue
 
@@ -55,10 +55,6 @@ https://teacher.bupt.edu.cn/guoxingyue
 [招生信息]
 ------
 如果你希望和我一起进行科研工作，请邮件联系我，一般每年招收博士研究生1名，硕士研究生4名，也可以联系刘元安老师，谢谢。**(2026年仍有名额，欢迎大家加入！)**
-
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-
 
 
 [News]
