@@ -47,7 +47,7 @@ For those users that need more advanced functionality, the template also support
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
-[研究方向[
+[研究方向]
 ------
 [1] 智能电磁学\
 [2] 计算电磁学及其应用\
