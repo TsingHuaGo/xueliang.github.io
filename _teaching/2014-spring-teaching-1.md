@@ -8,7 +8,7 @@ date: 2025-01-01
 location: "北京, 中国"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+《电磁场与电磁波》、《电子电路基础实验》、《离散数学》
 
 电磁场与电磁波 2025年春季学期
 ======
