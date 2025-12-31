@@ -50,7 +50,7 @@ redirect_from:
 ======
 2025-11 **XXX同学**获北京邮电大学**XXX奖学金**！\
 2025-11 **XXX同学**获北京邮电大学**XXX奖学金**！\
-2025-06 **XXX同学**以**第一作者身份**发表《基于XXXX工作》，被IEEE Transactions on Microwave Theory and Techniques(TMTT) **SCI一区**期刊接收！
+2025-06 **XXX同学**以**第一作者身份**发表《基于XXXX工作》，被IEEE Transactions on Microwave Theory and Techniques (TMTT) **SCI一区**期刊接收！
 
 
 
