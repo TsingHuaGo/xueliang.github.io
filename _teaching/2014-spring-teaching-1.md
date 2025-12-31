@@ -4,7 +4,7 @@ collection: teaching
 type: "本科生课程"
 permalink: /teaching/2014-spring-teaching-1
 venue: "北京邮电大学"
-date: 2025
+date: 2025-01-01
 location: "北京, 中国"
 ---
 
