@@ -10,15 +10,6 @@ redirect_from:
 薛良，男，硕士研究生在读，师从北京邮电大学[郭星月副教授](https://teacher.bupt.edu.cn/guoxingyue)从事计算电磁学高频近似方法（弹跳射线法）的研究。目前已有一篇ICCEM会议论文在投，获研究生一等奖学金、深交所企业奖学金等荣誉，并获优秀研究生干部、优秀骨干、优秀志愿者等称号。
 
 
-[官网主页]
-------
-https://teacher.bupt.edu.cn/guoxingyue
-
-[教育经历]
-------
-- 2020.9~2024.6    燕山大学    学士 
-- 2024.9~2027.6    北京邮电大学    硕士
-
 [研究方向]
 ------
 [1] 智能电磁学\
@@ -27,16 +18,14 @@ https://teacher.bupt.edu.cn/guoxingyue
 [4] 复杂电磁环境计算\
 [5] 天线与电磁兼容
 
-[社会兼职]
+[官网主页]
 ------
-[1].IEEE Transactions on Microwave Theory and Techniques审稿人\
-[2].IEEE Transactions on Antennas and Propagation审稿人\
-[3].Remote Sensing审稿人\
-[4].Sensors审稿人\
-[5].Electronics 审稿人\
-[6].Advances in Applied Mathematics and Mechanics审稿人
+https://teacher.bupt.edu.cn/guoxingyue
 
-
+[教育经历]
+------
+- 2020.9~2024.6    燕山大学    学士 
+- 2024.9~2027.6    北京邮电大学    硕士
 
 [团队资源]
 ------
@@ -62,6 +51,9 @@ https://teacher.bupt.edu.cn/guoxingyue
 2025-11 XXX同学获北京邮电大学XXX奖学金！\
 2025-11 XXX同学获北京邮电大学XXX奖学金！\
 2025-06 XXX同学基于XXXX工作被IEEE Transactions on Microwave Theory and Techniques(TMTT) SCI一区期刊接收！
+
+
+
 
 For those users that need more advanced functionality, the template also supports the following popular tools:
 - [MathJax](https://www.mathjax.org/) for mathematical equations
