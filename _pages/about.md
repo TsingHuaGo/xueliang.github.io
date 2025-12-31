@@ -20,7 +20,7 @@ redirect_from:
 
 [官网主页]
 ------
-https://teacher.bupt.edu.cn/guoxingyue
+https://teacher.bupt.edu.cn/guoxingyue/
 
 [教育经历]
 ------
